@@ -4,7 +4,7 @@ public class DataTypes {
 
     public static void main(String[] args) {
         byte b = 127; short s = 32767; long l= 50000l; int i =100000;
-        float f = 1.53f; double d = 200.50f;
+        float f = 1.53f; double d = 200.50d;
         char c = 'R';
         boolean bl = true;
         System.out.println(b);
