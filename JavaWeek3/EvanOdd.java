@@ -1,4 +1,4 @@
-package com.homework.JavaWeek3;
+package com.homework.JavaWeek2.JavaWeek3;
 //This programme to print Odd and Evan numbers between 1 to 20
 public class EvanOdd {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.homework.JavaWeek3;
+package com.homework.JavaWeek2.JavaWeek3;
 
 public class TableOfNine {
     public static void main(String[] args) {

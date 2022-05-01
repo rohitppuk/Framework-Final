@@ -1,8 +1,8 @@
-package com.homework.JavaWeek3;
+package com.homework.JavaWeek2.JavaWeek3;
 
 public class MonthIdentifier {
     public static void main(String[] args) {
-        int Month = 9;
+        int Month = 3;
         switch (Month) {
             case 1:
                 System.out.println("January");

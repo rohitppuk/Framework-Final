@@ -1,4 +1,4 @@
-package com.homework.JavaWeek3;
+package com.homework.JavaWeek2.JavaWeek3;
 //This programme is to print Odd and Evan numbers between 1 to 20 using While Loop
 public class OddEvanWhileLoop {
     public static void main(String[] args) {
